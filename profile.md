@@ -1,7 +1,7 @@
 # Job Search Profile: Gavin DiMasi
 ## Target
 - Titles: Principal / Senior Solutions Architect, Industry Architect, Field CTO, Platform Architect, Advisory Solution Consultant, Field Engineering Manager, Solutions/Sales Engineer; telecom / communications vertical
-- Seniority: Principal / Senior Principal (30 yrs experience)
+- Seniority: Senior through executive. Senior and Lead individual-contributor roles, Manager and Senior Manager roles, Principal/Staff, and Director/Field CTO are all in range.
 - Target companies: high-growth software, including ServiceNow, Databricks, Snowflake, Salesforce (Communications Cloud), and similar platform vendors with a telecom/CMT vertical
 ## Location
 - Lives in Ashburn, VA. Prefers remote-US or DC-area. Relocation: TBD.
